@@ -135,7 +135,7 @@ The styles and functionality can be customized via external CSS and configuratio
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="tablerender.min.css">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/isaka-james/tablerender/main/tablerender.min.css">
     <title>TableRender Example</title>
 </head>
 <body>
@@ -143,7 +143,7 @@ The styles and functionality can be customized via external CSS and configuratio
 <input type="text" id="table-render-search" placeholder="Search...">
 <div id="table-container"></div>
 
-<script src="tablerender.min.js"></script>
+<script src="https://raw.githubusercontent.com/isaka-james/tablerender/main/tablerender.min.js"></script>
 <script>
     const data = [
         { id: 1, name: 'John Doe', age: 30, email: 'john@example.com' },
