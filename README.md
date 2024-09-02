@@ -29,8 +29,8 @@ The styles and functionality can be customized via external CSS and configuratio
    Add the following lines to your HTML file to include TableRender:
 
    ```html
-   <link rel="stylesheet" href="path/to/tablerender.min.css">
-   <script src="path/to/tablerender.min.js"></script>
+   <link rel="stylesheet" href="https://raw.githubusercontent.com/isaka-james/tablerender/main/tablerender.min.css">
+   <script src="https://raw.githubusercontent.com/isaka-james/tablerender/main/tablerender.min.js"></script>
    ```
 
 ### Usage
