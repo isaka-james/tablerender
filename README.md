@@ -1,5 +1,9 @@
 # TableRender
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tablerender&label=TableRender&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
+</p>
+
 **TableRender** is a lightweight, customizable JavaScript library for rendering dynamic tables with search, pagination, and custom actions like edit and delete. This library is designed to be flexible, allowing developers to integrate table functionalities into their web applications with ease. 
 
 The styles and functionality can be customized via external CSS and configuration options, making it suitable for a wide range of use cases.
